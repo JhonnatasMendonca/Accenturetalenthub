@@ -74,3 +74,7 @@
 #enviar_resposta img{
     width: 30px;
 }
+
+.selected {
+    color: red;
+}
